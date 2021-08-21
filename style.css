@@ -1,0 +1,91 @@
+.header{
+    background-color: #101446;
+}
+.header_section img{
+    width: 160px;
+    margin: 0;
+}
+.header_menu ul{
+    text-align: right;
+}
+.header_menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.header_menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    margin-right: 23px;
+    line-height: 88px;
+}
+/*---------------- banner------------ */
+.banner{
+    background-image: url(https://i.ibb.co/QptH4pn/intro-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 230px 0px;
+}
+.banner span{
+    background-color:#337AB7 ;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+
+}
+/* Service */
+.service{
+    background-color: #BAC1F3;
+}
+.service h2{
+    font-family: sans-serif;
+    font-size: 50px;
+    padding-top: 80px;
+    padding-bottom: 35px;
+
+}
+.service_details{}
+.service_details h5{
+    font-weight: normal;
+    margin-top: 3px;
+}
+.service_details p{
+    margin: 0px 40px;
+}
+.service_details span{
+    background-color: #337AB7;
+    display: inline-block;
+    padding: 5px 15px;
+    margin-top: 25px;
+    border-radius: 5px;
+    margin-bottom: 45px !important;
+}
+
+/* About */
+.about{
+    background-color: #C2D4EA;
+    padding-bottom: 180px;
+   
+}
+.about h2{
+    font-family: sans-serif;
+    font-size: 50px;
+    padding-top: 140px;
+    padding-bottom: 65px;
+}
+.about_me{
+    padding-right: 230px;
+}
+.about_me h1{
+    font-size: 20px;
+}
+.about_me p{}
+.about_me h3{
+    font-size: 18px;
+}
+/* Contace section */
+.contact{}
+.contact h2{}
