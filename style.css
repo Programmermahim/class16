@@ -24,9 +24,8 @@
     background-image: url(https://i.ibb.co/QptH4pn/intro-bg.jpg);
     background-size: cover;
     background-position: center center;
-    background-attachment: fixed;
     background-repeat: no-repeat;
-    padding: 230px 0px;
+    padding: 250px 0px;
 }
 .banner span{
     background-color:#337AB7 ;
